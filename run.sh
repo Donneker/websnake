@@ -6,6 +6,7 @@
 #pip install -r requirements.txt
 
 # b) Run all necessary parts of the codebase
+source venv/Scripts/activate
 echo open browser to http://localhost:8000 and start playing
 echo once the skript runs, stop it with CTRL+C
 
