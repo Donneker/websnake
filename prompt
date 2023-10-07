@@ -1,0 +1,4 @@
+we are writing a snake game where the backend is written with python and the frontend is html, css and javascript.
+MVC components split in separate files.
+Keyboard control for moving the snake and pausing and resuming the game.
+the game should be playable in a browser and as simple as possible.

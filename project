@@ -1,0 +1,11 @@
+- backend
+    - __init__.py
+    - game.py
+    - snake.py
+    - controller.py
+    - server.py
+- frontend
+    - index.html
+    - style.css
+    - script.js
+- requirements.txt
